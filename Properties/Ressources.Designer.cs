@@ -105,6 +105,14 @@ namespace CreateKnxProd.Properties {
             }
         }
         
+        ///   Looks up a localized string similar to Block.
+        /// </summary>
+        public static string Block {
+            get {
+                return ResourceManager.GetString("Block", resourceCulture);
+            }
+        }
+        
         /// <summary>
         ///   Looks up a localized string similar to C.
         /// </summary>
@@ -291,6 +299,15 @@ namespace CreateKnxProd.Properties {
         public static string OrderNumber {
             get {
                 return ResourceManager.GetString("OrderNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parameter Blocks.
+        /// </summary>
+        public static string ParameterBlock {
+            get {
+                return ResourceManager.GetString("ParameterBlock", resourceCulture);
             }
         }
         

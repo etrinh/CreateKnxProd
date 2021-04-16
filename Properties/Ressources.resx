@@ -273,4 +273,10 @@
   <data name="IsRailMounted" xml:space="preserve">
     <value>Is Rail Mounted</value>
   </data>
+  <data name="ParameterBlock" xml:space="preserve">
+    <value>Parameter Blocks</value>
+  </data>
+  <data name="Block" xml:space="preserve">
+    <value>Block</value>
+  </data>
 </root>
